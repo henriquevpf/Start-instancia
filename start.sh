@@ -1,13 +1,7 @@
-get_instancia_add() {
-  
-  print_banner
   printf "${WHITE} 💻 Digite o nome da instancia a ser reiniciada (Utilizar Letras minusculas):${GRAY_LIGHT}"
   printf "\n\n"
   read -p "> " instancia_add
-}
 
-backend_start_pm2() {
-  print_banner
   printf "${WHITE} 💻 Iniciando pm2 (backend)...${GRAY_LIGHT}"
   printf "\n\n"
 
@@ -19,10 +13,7 @@ backend_start_pm2() {
 EOF
 
   sleep 2
-}
 
-frontend_start_pm2() {
-  print_banner
   printf "${WHITE} 💻 Iniciando pm2 (frontend)...${GRAY_LIGHT}"
   printf "\n\n"
 
@@ -35,4 +26,3 @@ frontend_start_pm2() {
 EOF
 
   sleep 2
-}
