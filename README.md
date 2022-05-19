@@ -21,5 +21,5 @@ chmod +x start.sh
 Execute:
 
 ```bash
-./ Start-instancia.sh
+./start.sh
 ```
