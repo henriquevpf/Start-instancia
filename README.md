@@ -24,7 +24,7 @@ Execute:
 ./start.sh
 ```
 
-Para descobrir qual instancia é, faça o login com usuário vespertinewbot:
+Para descobrir qual instancia é, faça o login com usuário vespertinewebot:
 ```bash
 su vespertinewebot
 ```
