@@ -26,7 +26,7 @@ Execute:
 
 Para descobrir qual instancia é, faça o login com usuário vespertinewbot:
 ```bash
-su vespertinewbot
+su vespertinewebot
 ```
 
 Cada pasta representa uma instancia:
