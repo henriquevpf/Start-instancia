@@ -6,6 +6,12 @@ Instale:
 git clone https://github.com/henriquevpf/Start-instancia.git
 ```
 
+Acesse o diretório:
+
+```bash
+cd Start-instancia
+```
+
 De permissões para o arquivo:
 
 ```bash
