@@ -1,3 +1,4 @@
+  clear
   printf "${WHITE} 💻 Digite o nome da instancia a ser reiniciada (Utilizar Letras minusculas):${GRAY_LIGHT}"
   printf "\n\n"
   read -p "> " instancia_add
