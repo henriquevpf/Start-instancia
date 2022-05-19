@@ -9,5 +9,11 @@ git clone https://github.com/henriquevpf/Start-instancia.git
 De permissões para o arquivo:
 
 ```bash
-chmod +x arquivo.sh
+chmod +x Start-instancia.sh
+```
+
+Execute:
+
+```bash
+./ Start-instancia.sh
 ```
