@@ -15,7 +15,7 @@ cd Start-instancia
 De permissões para o arquivo:
 
 ```bash
-chmod +x Start-instancia.sh
+chmod +x start.sh
 ```
 
 Execute:
