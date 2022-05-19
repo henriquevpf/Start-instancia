@@ -23,4 +23,16 @@ Execute:
 ```bash
 ./start.sh
 ```
+
+Para descobrir qual instancia é, faça o login com usuário vespertinewbot:
+```bash
+su vespertinewbot
+```
+
+Cada pasta representa uma instancia:
+```bash
+ls
+```
+
+
 by Henrique
