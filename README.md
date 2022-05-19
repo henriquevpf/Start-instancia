@@ -1,6 +1,6 @@
 Executável para iniciar instancias do Whaticket automaticamente.
 
-Instale:
+Clone:
 
 ```bash
 git clone https://github.com/henriquevpf/start-instancia.git
