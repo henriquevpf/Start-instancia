@@ -6,37 +6,19 @@ Clone:
 git clone https://github.com/henriquevpf/start-instancia.git
 ```
 
-Acesse o diretório:
-
+Execute: 
 ```bash
-cd start-instancia
-```
-
-De permissões para o arquivo:
-
-```bash
-chmod +x start.sh
-```
-
-Execute:
-
-```bash
-./start.sh
+cd start-instancia && chmod +x start.sh && chmod +x restart.sh && ./start.sh
 ```
 
 Para descobrir qual instancia é, faça o login com usuário vespertinewebot:
 ```bash
-su vespertinewebot
+su vespertinewebot && ls
 ```
 
-Cada pasta representa uma instancia:
+Para reiniciar a instancia:
 ```bash
-ls
-```
-
-Para executar apenas:
-```bash
-cd && cd ./start-instancia && sudo ./start.sh
+cd && cd ./start-instancia && sudo ./restart.sh
 ```
 
 by Henrique
