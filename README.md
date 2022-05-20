@@ -34,5 +34,9 @@ Cada pasta representa uma instancia:
 ls
 ```
 
+Para executar apenas:
+```bash
+cd && cd ./start-instancia && sudo ./start.sh
+```
 
 by Henrique
