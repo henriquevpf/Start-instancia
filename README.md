@@ -13,7 +13,7 @@ cd start-instancia && chmod +x start.sh && chmod +x restart.sh && ./start.sh
 
 Para descobrir qual instancia é, faça o login com usuário vespertinewebot:
 ```bash
-su vespertinewebot && ls
+cd && su vespertinewebot && ls
 ```
 
 Para reiniciar a instancia:
